@@ -2,7 +2,7 @@
 
 A bit of background before diving in:
 
-A couple months ago my friend and I were just chatting and catching up on the phone, and she works in a group that, among other things, has recently started leveraging computer vision AI techniques to assist in the diagnosis of Multiple Sclerosis through detection of MS lesions found in brain MRI scans. 
+A couple of months ago, my friend and I were just chatting and catching up on the phone. She works in a lab that, among other things, has recently started leveraging computer vision AI techniques to assist in the diagnosis of Multiple Sclerosis through detection of MS lesions found in brain MRI scans. 
 
  <img src="images/ms_lesions.jpg">
  
