@@ -8,7 +8,7 @@ A couple of months ago, my friend and I were just chatting and catching up on th
  
 [img_source](https://radiologyassistant.nl/neuroradiology/multiple-sclerosis/diagnosis-and-differential-diagnosis)
 
-Although I had been working on several computer-vision based projects (GANs, Style Transfer networks, etc.) for more natural science-based topics already (ex. custom CNN for predicting wind speed from tropical storm images), I hadn't yet fully grasped the potential of utilizing computer vision in biomedical imaging applications. After my conversations with my friend though, it was clear that this is a field where the applications of AI would be able to help so many people, and maybe even save lives! I knew it was something that I needed to pursue further.
+Although I had been working on several computer-vision based projects (GANs, Style Transfer networks, etc.) for more natural science-based topics already (ex. custom CNN for predicting wind speed from tropical storm images), I hadn't yet fully grasped the potential of utilizing computer vision in biomedical imaging applications. After my conversations with my friend though, it was clear that this is a field where the applications of AI would be able to help so many people, and maybe even help doctors save lives! I knew it was something that I needed to pursue further.
 
 My first introduction to a biomedical imaging segmentation algorithm was [U-Net](https://arxiv.org/abs/1505.04597), which is considered to be the industry standard of biomedical image segmentation. Although it certainly does a fantastic job in most applications, I noticed through various online discourse that some people were dissappointed with how it had trouble detecting smaller-scale objects, or more intricate structures.
 
